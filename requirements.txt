@@ -1,0 +1,10 @@
+react
+react-dom
+vite
+@vitejs/plugin-react
+tailwindcss
+postcss
+autoprefixer
+typescript
+@types/react
+@types/react-dom
